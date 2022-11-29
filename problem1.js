@@ -1,4 +1,5 @@
 <script>
+let N =13;
 let count=0;
 for(i=2;i<N;i++){
   if(N%i===0){
