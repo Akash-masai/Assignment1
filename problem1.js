@@ -7,5 +7,6 @@ for(i=2;i<N;i++){
      }
 }if(count>0){
    console.log("False");
-}else{
+}else{   console.log("True");
+     }
  
